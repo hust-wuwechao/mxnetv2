@@ -23,6 +23,4 @@
 [submodule "3rdparty/cub"]
 	path = 3rdparty/cub
 	url = https://github.com/dmlc/cub
-[submodule "3rdparty/tvm"]
-	path = 3rdparty/tvm
-	url = https://github.com/dmlc/tvm
+
